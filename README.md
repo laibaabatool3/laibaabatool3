@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I am Laiba Batool  
+💻 Software Analyst | Front-End Developer
 
-<!--
-**laibaabatool3/laibaabatool3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me  
+I am a **Software Analyst**. Currently, I am expanding my skills in **Front-End Development**, focusing on building clean, responsive, and user-friendly web interfaces.  
+I have been learning and practicing **HTML**, **CSS**, **Tailwind CSS**, and **JavaScript**, and I enjoy applying my knowledge by creating small, hands-on projects that help me grow as a developer.  
+My goal is to bridge the gap between **software analysis and front-end engineering**, turning ideas into intuitive and impactful digital experiences.
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack (Learning & Using)
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript  
+- **Tools:** VS Code, GitHub, Chrome DevTools  
+- **Currently Learning:** Responsive design, DOM manipulation, and interactive UI development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I am Working On
+- Building small front-end projects to strengthen my fundamentals  
+- Practicing UI design and component styling with Tailwind CSS  
+- Exploring modern JavaScript concepts and best practices  
